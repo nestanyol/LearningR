@@ -2,7 +2,7 @@ Núria Estanyol
 #Random sentence
 #Random sentence 2. pull from github
 
-TODO: Add more to the title of your project ticktock
+TODO: Add more to the title of your project blahblah
 
 # LearningR:
 
