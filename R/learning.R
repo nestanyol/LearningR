@@ -1,3 +1,4 @@
+# When a conflict happens.
 #This will be used for testing out Git
 
 # R basics ----------------------------------------------------------------
